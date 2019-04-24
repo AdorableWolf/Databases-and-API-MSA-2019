@@ -1,0 +1,14 @@
+D:\Files and Folders\Databases and API\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.deps.json
+D:\Files and Folders\Databases and API\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.json
+D:\Files and Folders\Databases and API\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.dev.json
+D:\Files and Folders\Databases and API\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.dll
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csprojAssemblyReference.cache
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csproj.CoreCompileInputs.cache
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cache
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cs
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfoInputs.cache
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfo.cs
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorTargetAssemblyInfo.cache
+D:\Files and Folders\Databases and API\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.pdb
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.dll
+D:\Files and Folders\Databases and API\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.pdb
